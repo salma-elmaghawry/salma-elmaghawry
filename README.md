@@ -12,4 +12,9 @@
 - 🌱 I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions
 - 📩 How to reach me: [salmaelmaghawry91@gmail.com](mailto:salmaelmaghawry91@gmail.com)
 
-<!-- Place the image here, it will align to the right -->
+
+## 📩Connect with me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-elmaghawry-21640724a/)
+
+
