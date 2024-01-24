@@ -18,8 +18,9 @@
 
 ## 📩Connect with me:
 
-<a href="[https://linkedin.com/in/eyad-hamza-69b8791b4](https://www.linkedin.com/in/salma-elmaghawry-21640724a)" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
-<a href="[https://www.youtube.com/channel/UC3Xs2OtH-4lLIGJj15RwbGQ](https://www.youtube.com/channel/UCNNvzHKlPkI1911qH_q0E2Q)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
+<a href="[https://linkedin.com/in/eyad-hamza-69b8791b4](https://www.linkedin.com/in/salma-elmaghawry-21640724a)](https://www.linkedin.com/in/salma-elmaghawry-21640724a)" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
+<a href="[https://www.youtube.com/channel/UC3Xs2OtH-4lLIGJj15RwbGQ](https://www.youtube.com/channel/UC3Xs2OtH-4lLIGJj15RwbGQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
+<a href="[https://www.instagram.com/salma.elmaghawry/?igshid=OGQ5ZDc2ODk2ZA%3D%3D](https://www.instagram.com/salma.elmaghawry/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
 
 
 
