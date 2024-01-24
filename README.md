@@ -11,24 +11,31 @@
 
 - 👩‍💻 Computer Science Student
 - 📱 Currently learning **Flutter**
-- 🌱 I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions
-- 📩 How to reach me: [salmaelmaghawry91@gmail.com](mailto:salmaelmaghawry91@gmail.com)
-
+- 🌱 I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions 
 <br>
 
 ## 📩Connect with me:
  [![Gmail Badge](https://img.shields.io/badge/-salmaelmaghawry91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salmaelmaghawry91@gmail.com)](mailto:salmaelmaghawry91@gmail.com)<br>[![Linkedin Badge](https://img.shields.io/badge/-Salma_Elmaghawry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/salma-elmaghawry-21640724a](https://www.linkedin.com/in/salma-elmaghawry-21640724a))](https://www.linkedin.com/in/salma-elmaghawry-21640724a)<br> [![Youtube Channel](https://img.shields.io/badge/-Salma_Elmaghawry-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCNNvzHKlPkI1911qH_q0E2Q)](https://www.youtube.com/channel/UCNNvzHKlPkI1911qH_q0E2Q)
-
-
-<a href="[https://linkedin.com/in/eyad-hamza-69b8791b4](https://www.linkedin.com/in/salma-elmaghawry-21640724a)](https://www.linkedin.com/in/salma-elmaghawry-21640724a)" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
-<a href="[https://www.youtube.com/channel/UC3Xs2OtH-4lLIGJj15RwbGQ](https://www.youtube.com/channel/UC3Xs2OtH-4lLIGJj15RwbGQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
-<a href="[https://www.instagram.com/salma.elmaghawry/?igshid=OGQ5ZDc2ODk2ZA%3D%3D](https://www.instagram.com/salma.elmaghawry/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Salma Elmaghawry" height="30" width="45" /></a>
-
 <br>
 
 ## 🛠 Skills
 
-  
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
+
+<br>
+
+
+ ## 👩‍💻 Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/>
+
+ 
+ 
+
 
 
 
