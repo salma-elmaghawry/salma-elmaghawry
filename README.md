@@ -1,10 +1,14 @@
-![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
+
+# Hi, I'm Salma Elmaghawry! 👋
+
+![1642320423853](https://camo.githubusercontent.com/0ed1d94dd2d068989b9150c2844661da4ea10bd281a91ae2a38716dbc63de1b4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966)
+
+
+## 🚀 About Me
+ *  👩‍💻Computer Science Student 
+ *  📱 I’m currently learning **Flutter**
+ *  🌱I am always eager to learn new technologies and techniques to improve my skills and create innovative solutions
+*  📩 How to reach me **salmaelmaghawry91@gmail.com**
 
 
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-elmaghawry-21640724a)
-
-
-### Hi there! 👋
-
-+ I am a cs student 
