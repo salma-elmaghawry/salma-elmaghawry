@@ -5,8 +5,8 @@
   
 ## 🚀 About Me
 
-- 👩‍💻 Computer Science Student
-- 📱 Currently learning **Flutter**
+- 👩‍💻 Software Engineer
+- 📱 **Flutter** Developer
 - 🌱 I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions 
 <br>
 
