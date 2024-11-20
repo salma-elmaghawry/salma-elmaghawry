@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 👩‍💻 Software Engineer
-- 📱 **Flutter** Developer
+- 📱  Flutter Developer
 - 🌱 I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions 
 <br>
 
