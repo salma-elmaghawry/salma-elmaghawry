@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salma Elmaghawry</h1>
 
-<h3 align="center">"Don't forget to take <b> Small Steps Every Day <b> toward achieving your dreams"</h3>
+<h3 align="center">"Don't forget to take <b> Small Steps Every Day <b> towards achieving your dreams"</h3>
 <br>
   
 ## 🚀 About Me
