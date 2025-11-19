@@ -1,33 +1,32 @@
 <h1 align="center">Hi 👋, I'm Salma Elmaghawry</h1>
 
-<h3 align="center">"Don't forget to take <b> Small Steps Every Day <b> towards achieving your dreams"</h3>
-<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Building+Amazing+Mobile+Apps!;" alt="Typing SVG">
+</p>
   
 ## 🚀 About Me
-
 - 👩‍💻 Software Engineer
 - 📱  Flutter Developer
 - 🌱 I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions 
 <br>
 
+## 🛠 Tech Stack & Tools
+
+ <p align="center">
+  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+
 ## 📩Connect with me:
  [![Gmail Badge](https://img.shields.io/badge/-salmaelmaghawry91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salmaelmaghawry91@gmail.com)](mailto:salmaelmaghawry91@gmail.com)<br>[![Linkedin Badge](https://img.shields.io/badge/-Salma_Elmaghawry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/salma-elmaghawry-21640724a](https://www.linkedin.com/in/salma-elmaghawry-21640724a))](https://www.linkedin.com/in/salma-elmaghawry-21640724a)<br> [![Youtube Channel](https://img.shields.io/badge/-Salma_Elmaghawry-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCNNvzHKlPkI1911qH_q0E2Q)](https://www.youtube.com/channel/UCNNvzHKlPkI1911qH_q0E2Q)
 <br>
 
-## 🛠 Skills
-
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
-
-<br>
-
-
- ## 👩‍💻 Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/>
 
  
 
