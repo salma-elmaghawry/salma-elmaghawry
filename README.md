@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Building+Amazing+Mobile+Apps!;" alt="Typing SVG">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salma-elmaghawry&label=+Profile+Views&color=ff4500&style=flat" alt="Profile views" />
+  <a href="https://github.com/salma-elmaghawry"><img src="https://img.shields.io/github/followers/salma-elmaghawry?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/salma-elmaghawry/"><img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue" alt="LinkedIn"></a>
+</p>
   
 ## 🚀 About Me
 - 👩‍💻 Software Engineer
