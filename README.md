@@ -20,7 +20,7 @@
 
 ---
 
-## 📺 Flutter Apps Playlist (YouTube)
+## 📱 My Work 
 
 <p align="center">
   <a href="https://youtube.com/playlist?list=PLuZFJwYx-G_szcqBHhEjWa0mY1r_k8znr">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  A curated playlist showcasing my Flutter applications —  
+  A playlist showcasing my Flutter applications
   covering UI implementation, app architecture, state management, and real-world features.
 </p>
 
