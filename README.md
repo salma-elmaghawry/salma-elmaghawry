@@ -18,28 +18,7 @@
 - 📱 **Flutter Developer** specializing in cross-platform mobile applications  
 - 🌱 Passionate about continuous learning, clean architecture, and building scalable, high-quality mobile solutions  
 
----
 
-## 📱 My Work 
-
-<p align="center">
-  <a href="https://youtube.com/playlist?list=PLuZFJwYx-G_szcqBHhEjWa0mY1r_k8znr">
-    <img src="https://img.shields.io/badge/YouTube-My%20Flutter%20Apps%20Playlist-red?style=for-the-badge&logo=youtube">
-  </a>
-</p>
-
-<p align="center">
-  A playlist showcasing my Flutter applications
-  covering UI implementation, app architecture, state management, and real-world features.
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/playlist?list=PLuZFJwYx-G_szcqBHhEjWa0mY1r_k8znr">
-    ▶️ Watch the Playlist
-  </a>
-</p>
-
----
 
 ## 🛠 Tech Stack & Tools
 
