@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salma Elmaghawry</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Engineer;Building+Scalable+Flutter+Apps" alt="Typing SVG">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2938C2BF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Salma+Elmaghawry;Mobile+App+Engineer;Building+Flutter+Apps" alt="Title"></img>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salma-elmaghawry&label=Profile%20Views&color=ff4500&style=flat" alt="Profile views" />
