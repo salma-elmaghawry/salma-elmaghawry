@@ -1,3 +1,9 @@
+
+## 🚀 About Me
+I'm a computer science student...
+
+
+
 <h1 align="center">Hi 👋, I'm Salma Elmaghawry</h1>
 
 <div align="center">
