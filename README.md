@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/salma-elmaghawry)
 
 <h1 align="center">Hi 👋, I'm Salma Elmaghawry</h1>
 
