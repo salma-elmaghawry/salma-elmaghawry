@@ -1,7 +1,5 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/salma-elmaghawry)
 
-<h1 align="center">Hi 👋, I'm Salma Elmaghawry</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2938C2BF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Salma+Elmaghawry;Mobile+App+Engineer;Building+Flutter+Apps" alt="Title"></img>
 </div>
